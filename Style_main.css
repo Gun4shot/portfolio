@@ -481,7 +481,8 @@ color:white;
 .gridrem{
   align-items: center;
   padding:20px;
- justify-items: center;
+ justify-content: center;
+ text-align: center;
  transition: transform 0.3s ease;
 }
 .gridrem:hover{
